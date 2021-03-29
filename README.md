@@ -1,8 +1,8 @@
 # Getting start with Calculator
 
-##project
+## project
 
-at the root of the calculator project type ###yarn add
+at the root of the calculator project type ### yarn add
 
 
 
