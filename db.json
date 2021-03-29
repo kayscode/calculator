@@ -1,0 +1,25 @@
+{
+  "studentListAccount": [
+    {
+      "matricule": "12KNH234",
+      "password": "asdfghgh",
+      "firstname": "james",
+      "lastname": "williams",
+      "level": 1,
+      "description": "some description about james williams on this rode",
+      "id": 1
+    }
+  ],
+  "professorListAccount": [],
+  "adminAccount": [
+    {
+      "matricule": "12KNH234",
+      "password": "sadmrty",
+      "firstname": "daniel",
+      "lastname": "johnson",
+      "level": 4,
+      "description": "some description about james williams on this rode",
+      "id": 1
+    }
+  ]
+}
